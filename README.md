@@ -1,7 +1,7 @@
 # Detection-of-Manipulated-Facial-Video
 Final project in ECE-GY 9123: Deep Learning
 
-####Team members:
+Team members:
 Huan Wang(hw2588) & Yunfan Xu(yx2277)
 
 ## Introduction:
