@@ -1,4 +1,5 @@
 # Detection-of-Manipulated-Facial-Video
+New York University
 Final project in ECE-GY 9123: Deep Learning
 
 Team members:
